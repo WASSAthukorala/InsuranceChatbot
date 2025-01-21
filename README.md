@@ -3,8 +3,11 @@
 
 ![Screenshot 2024-05-18 163410](https://github.com/user-attachments/assets/f02bce73-970c-41c4-b100-ddb3de946dbf)
 
+
 The chatbot provides customers with quick access to information about insurance policies, such as coverage, premiums, and policy terms. The chatbot guides insurance-related issues and 
-responds to frequently asked inquiries regarding insurance services, terms, and procedures.
+responds to frequently asked inquiries regarding insurance services, terms, and procedures. Using the web application customers can apply for new insurance policies and make appointments with customer care service agents. This web-based chatbot is made for customers as well as insurance providers.  Web applications provide the admin access to insurance providers to view, and delete customer requests and appointments. 
+This chatbot developed using Python programming language, RAG mechanism with OpenAI, and the llama agent framework, are used in the development of the chatbot. And used PHP Laravel to develop websites and used MySQL as the Database.
+
 
 
 ## System Installation Guide: 
